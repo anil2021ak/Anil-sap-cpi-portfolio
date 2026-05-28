@@ -221,7 +221,7 @@ const experience = [
     company: "Cognerium Robotic Labs",
     role: "Angular Developer",
     focus: "Frontend Development & API Integration",
-    period: "Aug 2024 – Nov 2024",
+    period: "Aug 2024 – Nov 2024 | Project-Based Engagement",
     client: "Enterprise Web Applications",
     summary:
       "Worked on Angular-based web application development with focus on responsive UI, API integration, defect fixing, and application support.",
@@ -242,7 +242,7 @@ const experience = [
     company: "Nuacem AI",
     role: "Software Engineer",
     focus: "SAP CPI Interface Support & Enhancements",
-    period: "Feb 2024 – Jun 2024",
+    period: "Feb 2024 – Jun 2024 | Project-Based Engagement",
     client: "SmithGroup",
     summary:
       "Supported SAP CPI interfaces by handling monitoring, troubleshooting, minor enhancements, transformation fixes, and support ticket resolution.",
