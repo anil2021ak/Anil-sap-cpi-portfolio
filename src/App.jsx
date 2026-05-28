@@ -463,7 +463,7 @@ export default function Portfolio() {
           </h1> */}
 
           <h1 className="max-w-5xl bg-gradient-to-r from-white via-cyan-100 to-cyan-400 bg-clip-text text-5xl font-black leading-[0.95] tracking-[-0.04em] text-transparent md:text-8xl">
-            Delivering enterprise SAP CPI integrations with reliability, security, and scale.
+          Developing end-to-end SAP CPI integrations with monitoring, transformation, and support expertise.
           </h1>
 
           <p className="mt-7 max-w-2xl text-lg leading-8 text-slate-300 md:text-xl">
